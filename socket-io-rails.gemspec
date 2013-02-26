@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ['Ville Lautanala']
   s.email       = ['lautis@gmail.com']
-  s.homepage    = 'https://github.com/lautis/socket-io-rails'
+  s.homepage    = 'https://github.com/tedkulp/socket-io-rails'
   s.summary     = %q{Gem wrapper to include the Socket.IO library via the asset pipeline.}
 
   s.add_runtime_dependency 'rails', '>= 3.1.0'
